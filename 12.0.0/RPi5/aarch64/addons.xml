@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.0"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.17.4) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.1"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.1) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.2"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.2) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.3"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.3) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.4"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.4) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.5"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.4) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.6"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.4) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.7"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.18.5) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.8"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.19.0) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.9"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.19.1) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.10"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.19.2) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.11"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.20.0) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.12"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.20.1) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.13"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.20.1) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.14"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.20.2) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.15"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (3.20.3) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.nordvpn"
+       name="NordVPN"
+       version="12.0.0.16"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="script.py" />
+  <extension point="xbmc.python.script" library="script.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>The NordVPN Linux application</summary>
+    <description>
+The NordVPN Linux application (4.0.0) provides a simple and user-friendly command line interface for accessing all the different features of NordVPN. Users can choose from a list of server locations around the world, or let the application automatically select the best server for them. They can also customize their connection settings, such as choosing a specific protocol or enabling the kill switch
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.zerotier-one"
+       name="ZeroTier One"
+       version="12.0.0.0"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ZeroTier One: securely connect any device, anywhere</summary>
+    <description>
+ZeroTier One (1.12.2) lets you build modern, secure multi-point virtualized networks of almost any type. From robust peer-to-peer networking to multi-cloud mesh infrastructure, we enable global connectivity with the simplicity of a local network.
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.zerotier-one"
+       name="ZeroTier One"
+       version="12.0.0.1"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ZeroTier One: securely connect any device, anywhere</summary>
+    <description>
+ZeroTier One (1.14.0) lets you build modern, secure multi-point virtualized networks of almost any type. From robust peer-to-peer networking to multi-cloud mesh infrastructure, we enable global connectivity with the simplicity of a local network.
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.zerotier-one"
+       name="ZeroTier One"
+       version="12.0.0.2"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ZeroTier One: securely connect any device, anywhere</summary>
+    <description>
+ZeroTier One (1.14.0) lets you build modern, secure multi-point virtualized networks of almost any type. From robust peer-to-peer networking to multi-cloud mesh infrastructure, we enable global connectivity with the simplicity of a local network.
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.zerotier-one"
+       name="ZeroTier One"
+       version="12.0.0.3"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ZeroTier One: securely connect any device, anywhere</summary>
+    <description>
+ZeroTier One (1.14.0) lets you build modern, secure multi-point virtualized networks of almost any type. From robust peer-to-peer networking to multi-cloud mesh infrastructure, we enable global connectivity with the simplicity of a local network.
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+<addon id="service.zerotier-one"
+       name="ZeroTier One"
+       version="12.0.0.4"
+       provider-name="Team LibreELEC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ZeroTier One: securely connect any device, anywhere</summary>
+    <description>
+ZeroTier One (1.14.1) lets you build modern, secure multi-point virtualized networks of almost any type. From robust peer-to-peer networking to multi-cloud mesh infrastructure, we enable global connectivity with the simplicity of a local network.
+    </description>
+    <disclaimer>
+
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+
+    </news>
+    <assets>
+
+    </assets>
+  </extension>
+</addon>
+</addons>
