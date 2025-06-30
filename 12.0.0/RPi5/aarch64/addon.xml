@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.libreelec.vpn.rpi5" name="VPN for LibreELEC (RPi5)" version="0.0.1" provider-name="Kaspar Winckler">
+  <extension point="xbmc.addon.repository">
+    <dir>
+      <datadir zip="true">https://raw.githubusercontent.com/KasparWinckler/addons/addons/12.0.0/RPi5/aarch64/</datadir>
+      <info>https://raw.githubusercontent.com/KasparWinckler/addons/addons/12.0.0/RPi5/aarch64/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/KasparWinckler/addons/addons/12.0.0/RPi5/aarch64/addons.xml.md5</checksum>
+    </dir>
+  </extension>
+</addon>
